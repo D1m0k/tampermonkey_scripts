@@ -5,6 +5,7 @@
 // @description  Добавляет data-cid к заголовкам полей в Bitrix24
 // @author       You
 // @match        https://*.bitrix24.ru/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bitrix24.ru
 // @grant        none
 // ==/UserScript==
 
